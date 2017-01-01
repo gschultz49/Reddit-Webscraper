@@ -1,4 +1,7 @@
 # Reddit webscraper
+This scraper uses the popular scraping library Scrapy. For more information: https://github.com/scrapy/scrapy
+
+# Setup
 All commands are executed in the
 <code>/reddit_scraper/reddit/reddit/spiders  </code> directory
 

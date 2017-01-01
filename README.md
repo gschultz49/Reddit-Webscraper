@@ -23,6 +23,8 @@ ex: <code>scrapy crawl reddit -a subr=programming -o program.json </code>
 
 Supported file extensions: 'xml', 'jsonlines', 'jl', 'json', 'csv', 'pickle', 'marshal'
 
+File is stored in the "spiders" directory
+
 
 # Other notes
 This scraper only scrapes the "hot" section

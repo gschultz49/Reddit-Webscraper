@@ -9,14 +9,12 @@ All commands are executed in the
 Run <code>scrapy crawl reddit</code>
 
 # To crawl a specific subreddit
-<code>scrapy crawl reddit -a subr=SUBREDDIT_NAME</code>
-
+scrapy crawl reddit -a subr=SUBREDDIT_NAME
 
 ex: <code>scrapy crawl reddit -a subr=programming</code>
 
 # Store the results of any call in a file
-<code>scrapy crawl reddit -o FILE.EXT</code>
-
+scrapy crawl reddit -o FILE.EXT
 
 ex: <code>scrapy crawl reddit -a subr=programming -o program.json </code>
 
